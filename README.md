@@ -5,7 +5,7 @@
 
 Ссылка на проект: [Научиться учиться](https://chashchinavera.github.io/how-to-learn)
 
-### **Стек:**
+### **Технологии**
 ***
 * HTML
 * CSS3
